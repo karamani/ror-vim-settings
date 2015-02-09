@@ -14,7 +14,7 @@ Copy the contents of the folder ror-vim-settings in your HOME folder
 Clone Vundle:
 
 ```bash
-  git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+$ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
 
 Open vim.
